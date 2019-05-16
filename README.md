@@ -1,4 +1,4 @@
-Play Tic Tac Toe with your Friends! https://bam95899.github.io/tic-tac-toe-react/
+# Play Tic Tac Toe with your Friends! https://bam95899.github.io/tic-tac-toe-react/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
